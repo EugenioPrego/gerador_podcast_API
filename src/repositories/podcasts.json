@@ -1,0 +1,27 @@
+
+[
+{
+    "podcast_name":"flow",
+    "episodio":"CEO DO IFOOD REVELA VASTIDORES DO APP",
+    "video_id":"mnnKv4sX3zI",
+    "categores":["saúde", "tecnologia"]
+},
+{
+    "podcast_name":"flow",
+    "episodio":"Ramon Dino foi surpreendido e perdeu o título",
+    "video_id":"CUdQTF-yueg",
+    "categores":["saúde", "esportes", "bodybuilder"]
+},
+{
+    "podcast_name":"flow",
+    "episodio":"Typescript",
+    "video_id":"CUdQTF-yueg",
+    "categores":["Progrmação", "Desenvolvimento de Software"]
+},
+{
+    "podcast_name":"Software",
+    "episodio":"Typescript",
+    "video_id":"CUdQTF-yueg",
+    "categores":["Progrmação", "Desenvolvimento de Software"]
+}
+    ]
